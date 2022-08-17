@@ -1,17 +1,13 @@
-import personagem.TerraMediaPersonagemFactory;
-import personagem.WesterosPersonagemFactory;
-
 import java.util.Locale;
 
 public class Program {
-    public static <PersonagemFactory, Personagem> void main(String[] args) {
+    public static void main(String[] args) {
 
         Locale.setDefault(new Locale("pt", "BR"));
 
         PersonagemFactory terraMediaPersonagemFactory = new WesterosPersonagemFactory();
         PersonagemFactory westerosPersonagemFactory = new TerraMediaPersonagemFactory();
 
-        Object TipoPersonagem;
         try {
             Personagem magoGandalf = terraMediaPersonagemFactory.createPersonagem(TipoPersonagem.MAGO, "Gandalf");
             System.out.println(magoGandalf);
