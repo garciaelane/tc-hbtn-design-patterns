@@ -1,6 +1,6 @@
 public abstract class PersonagemFactory {
 
-    public abstract Personagem createPersonagem(TipoPersonagem tipo, String nome) throws Exception;
+    public abstract personagem.Personagem createPersonagem(TipoPersonagem tipo, String nome) throws Exception;
 
 
 }
