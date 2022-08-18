@@ -1,3 +1,5 @@
+package personagem;
+
 public abstract class Personagem {
 
     private String nome;

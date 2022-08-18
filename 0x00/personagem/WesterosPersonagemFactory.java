@@ -1,4 +1,4 @@
-public class WesterosPersonagemFactory extends PersonagemFactory{
+public class WesterosPersonagemFactory extends PersonagemFactory {
 
     @Override
     public Personagem createPersonagem(TipoPersonagem tipo, String nome) throws Exception {
@@ -15,4 +15,3 @@ public class WesterosPersonagemFactory extends PersonagemFactory{
     }
 
 }
-
