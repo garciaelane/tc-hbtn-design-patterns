@@ -1,16 +1,17 @@
-public class WesterosPersonagemFactory extends PersonagemFactory {
+public class WesterosPersonagemFactory extends PersonagemFactory{
 
     @Override
-    public Personagem createPersonagem(TipoPersonagem tipo, String nome) {
-        else if (tipo == TipoPersonagem.MAGO) {
-            return new Mago(nome, 8, 3, 3, 3, 4);
+    public Personagem createPersonagem(TipoPersonagem tipo, String nome) throws Exception {
+        switch(tipo) {
+            case MAGO:
+                return new Mago(nome, 8, 3, 3, 3, 4);
+            case LADRAO:
+                return new Ladrao(nome, 1, 8, 7, 7, 10);
+            case GUERREIRO:
+                return new Guerreiro(nome, 0, 9, 7, 10, 7);
+            default:
+                return null;
         }
-        else if (tipo == TipoPersonagem.LADRAO) {
-            return new Ladrao(nome, 1, 8, 7, 7, 10);
-        }
-        else if (tipo == TipoPersonagem.GUERREIRO) {
-            return new Guerreiro(nome, 0, 9, 7, 10, 7);
-        }
-        return null;
     }
+
 }
