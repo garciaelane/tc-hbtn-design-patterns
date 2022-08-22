@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cf2f9f4-43de-4d7d-8fb4-5e7edfe9d1c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Guerreiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Guerreiro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ladrao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ladrao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mago.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mago.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Personagem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonagemFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/PersonagemFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TerraMediaPersonagemFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/TerraMediaPersonagemFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TipoPersonagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/TipoPersonagem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WesterosPersonagemFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/WesterosPersonagemFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personagem.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
