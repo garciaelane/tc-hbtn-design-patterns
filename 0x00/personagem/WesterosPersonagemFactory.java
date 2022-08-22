@@ -1,7 +1,7 @@
 public class WesterosPersonagemFactory extends PersonagemFactory{
 
     @Override
-    public Personagem createPersonagem(TipoPersonagem tipo, String nome) throws Exception {
+    public Personagem createPersonagem(TipoPersonagem tipo, String nome) {
         switch(tipo) {
             case MAGO:
                 return new Mago(nome, 8, 3, 3, 3, 4);
