@@ -1,5 +1,4 @@
 public class TerraMediaPersonagemFactory extends PersonagemFactory {
-
     @Override
     public Personagem createPersonagem(TipoPersonagem tipo, String nome) {
         if (tipo == TipoPersonagem.MAGO) {
@@ -10,6 +9,5 @@ public class TerraMediaPersonagemFactory extends PersonagemFactory {
             return new Guerreiro(nome, 1, 8,5,10,6);
         }
         return null;
-
     }
 }

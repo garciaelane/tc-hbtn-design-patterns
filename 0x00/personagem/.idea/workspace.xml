@@ -7,6 +7,10 @@
     <list default="true" id="4cf2f9f4-43de-4d7d-8fb4-5e7edfe9d1c2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ladrao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ladrao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mago.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mago.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TerraMediaPersonagemFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/TerraMediaPersonagemFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TipoPersonagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/TipoPersonagem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WesterosPersonagemFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/WesterosPersonagemFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
